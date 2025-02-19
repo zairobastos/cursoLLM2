@@ -9,6 +9,8 @@ __pycache__/
 /bin
 /include
 /lib64
+/share
+/etc
 
 # Distribution / packaging
 .Python
